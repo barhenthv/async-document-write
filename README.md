@@ -1,8 +1,8 @@
 Asynchronous `document.write`
 ===========================
 
-Asynchronous `document.write` (ADW) is a JavaScript library that enables the usage
-of `document.write` in asynchronous scripts. After loading ADW, `document.write` may
+Asynchronous `document.write` (ADW) is a JavaScript library and protocol that enables the
+usage of `document.write` in asynchronous scripts. After loading ADW, `document.write` may
 be called by any script even after the page has completed loading. ADW is backwards
 compatible with normal `document.write` and it also implements an asynchronous
 `document.writeln` method.
